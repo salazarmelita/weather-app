@@ -9,7 +9,7 @@ body {
   background-image: url(../img/bg_clima.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  height: 100vh;
+  height: 90vh;
   font-family: 'Outfit', sans-serif;
   color: var(--blanco);
   font-size: 2rem;
