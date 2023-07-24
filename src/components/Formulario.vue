@@ -17,7 +17,8 @@
         { codigo: 'CO', nombre: 'Colombia' },
         { codigo: 'CR', nombre: 'Costa Rica' },
         { codigo: 'ES', nombre: 'España' },
-        { codigo: 'PE', nombre: 'Perú' }
+        { codigo: 'PE', nombre: 'Perú' },
+        { codigo: 'CL', nombre: 'Chile' }
     ]
 
     const consultarClima = () => {
